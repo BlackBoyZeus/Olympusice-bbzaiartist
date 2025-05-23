@@ -1,0 +1,24 @@
+# Ignore large files and directories
+/venv/
+/myenv/
+/ai_music_env/
+/large-assets/
+*.dylib
+*.so
+*.bin
+*.pt
+*.pth
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+*.aac
+*.npy
+.DS_Store
+
+# Keep code files
+!*.py
+!*.md
+!*.txt
+!*.json
