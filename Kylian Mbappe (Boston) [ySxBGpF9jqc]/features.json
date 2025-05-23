@@ -1,0 +1,18 @@
+{
+  "duration": 104.76190625,
+  "tempo": 104.16666666666667,
+  "time_signature": "2/4",
+  "key": 9,
+  "key_confidence": "low",
+  "energy": 0.17375314235687256,
+  "loudness": -15.201347351074219,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe (Boston) [ySxBGpF9jqc]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe (Boston) [ySxBGpF9jqc]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe (Boston) [ySxBGpF9jqc]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

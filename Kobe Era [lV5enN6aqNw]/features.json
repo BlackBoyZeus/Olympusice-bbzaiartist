@@ -1,0 +1,18 @@
+{
+  "duration": 274.5991875,
+  "tempo": 170.45454545454547,
+  "time_signature": "4/4",
+  "key": 11,
+  "key_confidence": "low",
+  "energy": 0.23781909048557281,
+  "loudness": -12.475066184997559,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kobe Era [lV5enN6aqNw]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kobe Era [lV5enN6aqNw]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kobe Era [lV5enN6aqNw]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

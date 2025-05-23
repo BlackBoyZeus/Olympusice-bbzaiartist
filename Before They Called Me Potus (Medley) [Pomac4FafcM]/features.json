@@ -1,0 +1,18 @@
+{
+  "duration": 274.227125,
+  "tempo": 117.1875,
+  "time_signature": "2/4",
+  "key": 7,
+  "key_confidence": "low",
+  "energy": 0.11311186105012894,
+  "loudness": -18.92983627319336,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Before They Called Me Potus (Medley) [Pomac4FafcM]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Before They Called Me Potus (Medley) [Pomac4FafcM]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Before They Called Me Potus (Medley) [Pomac4FafcM]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

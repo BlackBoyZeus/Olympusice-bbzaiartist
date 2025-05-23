@@ -1,0 +1,18 @@
+{
+  "duration": 146.66665625,
+  "tempo": 110.29411764705883,
+  "time_signature": "4/4",
+  "key": 4,
+  "key_confidence": "high",
+  "energy": 0.1765183061361313,
+  "loudness": -15.064205169677734,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe (Houston) [tQ8zqN65w5U]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe (Houston) [tQ8zqN65w5U]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe (Houston) [tQ8zqN65w5U]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

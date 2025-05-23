@@ -1,0 +1,18 @@
+{
+  "duration": 291.316125,
+  "tempo": 144.23076923076923,
+  "time_signature": "2/4",
+  "key": 1,
+  "key_confidence": "high",
+  "energy": 0.14321383833885193,
+  "loudness": -16.880300521850586,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

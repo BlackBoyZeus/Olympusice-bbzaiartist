@@ -1,0 +1,18 @@
+{
+  "duration": 280.05878125,
+  "tempo": 133.92857142857142,
+  "time_signature": "2/4",
+  "key": 11,
+  "key_confidence": "low",
+  "energy": 0.27874138951301575,
+  "loudness": -11.09597110748291,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Love Dreams [xxlTAYf-t1o]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Love Dreams [xxlTAYf-t1o]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Love Dreams [xxlTAYf-t1o]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 197.01553125,
+  "tempo": 156.25,
+  "time_signature": "2/4",
+  "key": 10,
+  "key_confidence": "low",
+  "energy": 0.2417355477809906,
+  "loudness": -12.333189010620117,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Zepeto [9LaebRCA3WM]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Zepeto [9LaebRCA3WM]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Zepeto [9LaebRCA3WM]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

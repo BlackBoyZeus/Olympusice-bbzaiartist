@@ -1,0 +1,18 @@
+{
+  "duration": 70.40146875,
+  "tempo": 113.63636363636364,
+  "time_signature": "4/4",
+  "key": 3,
+  "key_confidence": "high",
+  "energy": 0.23225466907024384,
+  "loudness": -12.680710792541504,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Zuckbergian [lj1YVJBrEDQ]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Zuckbergian [lj1YVJBrEDQ]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Zuckbergian [lj1YVJBrEDQ]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

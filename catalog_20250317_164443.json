@@ -1,0 +1,250 @@
+[
+    {
+        "song_id": "Taste It [dpD_8-E1iC4]",
+        "audio_path": "Taste It [dpD_8-E1iC4]/audio/standardized.wav",
+        "features_path": "Taste It [dpD_8-E1iC4]/dataset/features/features.json",
+        "lyrics_path": "Taste It [dpD_8-E1iC4]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Taste It [dpD_8-E1iC4]/dataset/metadata.json",
+        "spectrogram_path": "Taste It [dpD_8-E1iC4]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Zuckbergian [lj1YVJBrEDQ]",
+        "audio_path": "Zuckbergian [lj1YVJBrEDQ]/audio/standardized.wav",
+        "features_path": "Zuckbergian [lj1YVJBrEDQ]/dataset/features/features.json",
+        "lyrics_path": "Zuckbergian [lj1YVJBrEDQ]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Zuckbergian [lj1YVJBrEDQ]/dataset/metadata.json",
+        "spectrogram_path": "Zuckbergian [lj1YVJBrEDQ]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Kylian Mbappe [wHyWd-zUp7c]",
+        "audio_path": "Kylian Mbappe [wHyWd-zUp7c]/audio/standardized.wav",
+        "features_path": "Kylian Mbappe [wHyWd-zUp7c]/dataset/features/features.json",
+        "lyrics_path": "Kylian Mbappe [wHyWd-zUp7c]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Kylian Mbappe [wHyWd-zUp7c]/dataset/metadata.json",
+        "spectrogram_path": "Kylian Mbappe [wHyWd-zUp7c]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Kylian Mbappe (Houston) [tQ8zqN65w5U]",
+        "audio_path": "Kylian Mbappe (Houston) [tQ8zqN65w5U]/audio/standardized.wav",
+        "features_path": "Kylian Mbappe (Houston) [tQ8zqN65w5U]/dataset/features/features.json",
+        "lyrics_path": "Kylian Mbappe (Houston) [tQ8zqN65w5U]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Kylian Mbappe (Houston) [tQ8zqN65w5U]/dataset/metadata.json",
+        "spectrogram_path": "Kylian Mbappe (Houston) [tQ8zqN65w5U]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "3peat [gq1eofElbwQ]",
+        "audio_path": "3peat [gq1eofElbwQ]/audio/standardized.wav",
+        "features_path": "3peat [gq1eofElbwQ]/dataset/features/features.json",
+        "lyrics_path": "3peat [gq1eofElbwQ]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "3peat [gq1eofElbwQ]/dataset/metadata.json",
+        "spectrogram_path": "3peat [gq1eofElbwQ]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Patronus Charm (Bonus) [o5oH_tt6sB0]",
+        "audio_path": "Patronus Charm (Bonus) [o5oH_tt6sB0]/audio/standardized.wav",
+        "features_path": "Patronus Charm (Bonus) [o5oH_tt6sB0]/dataset/features/features.json",
+        "lyrics_path": "Patronus Charm (Bonus) [o5oH_tt6sB0]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Patronus Charm (Bonus) [o5oH_tt6sB0]/dataset/metadata.json",
+        "spectrogram_path": "Patronus Charm (Bonus) [o5oH_tt6sB0]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Noahs Arc [0JCR94rF5qI]",
+        "audio_path": "Noahs Arc [0JCR94rF5qI]/audio/standardized.wav",
+        "features_path": "Noahs Arc [0JCR94rF5qI]/dataset/features/features.json",
+        "lyrics_path": "Noahs Arc [0JCR94rF5qI]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Noahs Arc [0JCR94rF5qI]/dataset/metadata.json",
+        "spectrogram_path": "Noahs Arc [0JCR94rF5qI]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "New Font [czYj2TxIRH8]",
+        "audio_path": "New Font [czYj2TxIRH8]/audio/standardized.wav",
+        "features_path": "New Font [czYj2TxIRH8]/dataset/features/features.json",
+        "lyrics_path": "New Font [czYj2TxIRH8]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "New Font [czYj2TxIRH8]/dataset/metadata.json",
+        "spectrogram_path": "New Font [czYj2TxIRH8]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Friended [SVuOI1Xj4pw]",
+        "audio_path": "Friended [SVuOI1Xj4pw]/audio/standardized.wav",
+        "features_path": "Friended [SVuOI1Xj4pw]/dataset/features/features.json",
+        "lyrics_path": "Friended [SVuOI1Xj4pw]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Friended [SVuOI1Xj4pw]/dataset/metadata.json",
+        "spectrogram_path": "Friended [SVuOI1Xj4pw]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Disney 713 [tK-yvwgXvQw]",
+        "audio_path": "Disney 713 [tK-yvwgXvQw]/audio/standardized.wav",
+        "features_path": "Disney 713 [tK-yvwgXvQw]/dataset/features/features.json",
+        "lyrics_path": "Disney 713 [tK-yvwgXvQw]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Disney 713 [tK-yvwgXvQw]/dataset/metadata.json",
+        "spectrogram_path": "Disney 713 [tK-yvwgXvQw]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Love Dreams [xxlTAYf-t1o]",
+        "audio_path": "Love Dreams [xxlTAYf-t1o]/audio/standardized.wav",
+        "features_path": "Love Dreams [xxlTAYf-t1o]/dataset/features/features.json",
+        "lyrics_path": "Love Dreams [xxlTAYf-t1o]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Love Dreams [xxlTAYf-t1o]/dataset/metadata.json",
+        "spectrogram_path": "Love Dreams [xxlTAYf-t1o]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Caught Up [xqUaqeQ2vTo]",
+        "audio_path": "Caught Up [xqUaqeQ2vTo]/audio/standardized.wav",
+        "features_path": "Caught Up [xqUaqeQ2vTo]/dataset/features/features.json",
+        "lyrics_path": "Caught Up [xqUaqeQ2vTo]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Caught Up [xqUaqeQ2vTo]/dataset/metadata.json",
+        "spectrogram_path": "Caught Up [xqUaqeQ2vTo]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Full Circle [6LZokJkBVeI]",
+        "audio_path": "Full Circle [6LZokJkBVeI]/audio/standardized.wav",
+        "features_path": "Full Circle [6LZokJkBVeI]/dataset/features/features.json",
+        "lyrics_path": "Full Circle [6LZokJkBVeI]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Full Circle [6LZokJkBVeI]/dataset/metadata.json",
+        "spectrogram_path": "Full Circle [6LZokJkBVeI]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Kobe Era [lV5enN6aqNw]",
+        "audio_path": "Kobe Era [lV5enN6aqNw]/audio/standardized.wav",
+        "features_path": "Kobe Era [lV5enN6aqNw]/dataset/features/features.json",
+        "lyrics_path": "Kobe Era [lV5enN6aqNw]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Kobe Era [lV5enN6aqNw]/dataset/metadata.json",
+        "spectrogram_path": "Kobe Era [lV5enN6aqNw]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "MewTwo [KT1T4cAz8d0]",
+        "audio_path": "MewTwo [KT1T4cAz8d0]/audio/standardized.wav",
+        "features_path": "MewTwo [KT1T4cAz8d0]/dataset/features/features.json",
+        "lyrics_path": "MewTwo [KT1T4cAz8d0]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "MewTwo [KT1T4cAz8d0]/dataset/metadata.json",
+        "spectrogram_path": "MewTwo [KT1T4cAz8d0]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]",
+        "audio_path": "Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]/audio/standardized.wav",
+        "features_path": "Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]/dataset/features/features.json",
+        "lyrics_path": "Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]/dataset/metadata.json",
+        "spectrogram_path": "Michelin Star Marsmix (Bonus) [laOlvd6sNrQ]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]",
+        "audio_path": "StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]/audio/standardized.wav",
+        "features_path": "StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]/dataset/features/features.json",
+        "lyrics_path": "StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]/dataset/metadata.json",
+        "spectrogram_path": "StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Kylian Mbappe (Boston) [ySxBGpF9jqc]",
+        "audio_path": "Kylian Mbappe (Boston) [ySxBGpF9jqc]/audio/standardized.wav",
+        "features_path": "Kylian Mbappe (Boston) [ySxBGpF9jqc]/dataset/features/features.json",
+        "lyrics_path": "Kylian Mbappe (Boston) [ySxBGpF9jqc]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Kylian Mbappe (Boston) [ySxBGpF9jqc]/dataset/metadata.json",
+        "spectrogram_path": "Kylian Mbappe (Boston) [ySxBGpF9jqc]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "05\u2019 Zuck [ZsOtqU3-HXs]",
+        "audio_path": "05\u2019 Zuck [ZsOtqU3-HXs]/audio/standardized.wav",
+        "features_path": "05\u2019 Zuck [ZsOtqU3-HXs]/dataset/features/features.json",
+        "lyrics_path": "05\u2019 Zuck [ZsOtqU3-HXs]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "05\u2019 Zuck [ZsOtqU3-HXs]/dataset/metadata.json",
+        "spectrogram_path": "05\u2019 Zuck [ZsOtqU3-HXs]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Falling [dmvPkL4dr9Q]",
+        "audio_path": "Falling [dmvPkL4dr9Q]/audio/standardized.wav",
+        "features_path": "Falling [dmvPkL4dr9Q]/dataset/features/features.json",
+        "lyrics_path": "Falling [dmvPkL4dr9Q]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Falling [dmvPkL4dr9Q]/dataset/metadata.json",
+        "spectrogram_path": "Falling [dmvPkL4dr9Q]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Before They Called Me Potus (Medley) [Pomac4FafcM]",
+        "audio_path": "Before They Called Me Potus (Medley) [Pomac4FafcM]/audio/standardized.wav",
+        "features_path": "Before They Called Me Potus (Medley) [Pomac4FafcM]/dataset/features/features.json",
+        "lyrics_path": "Before They Called Me Potus (Medley) [Pomac4FafcM]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Before They Called Me Potus (Medley) [Pomac4FafcM]/dataset/metadata.json",
+        "spectrogram_path": "Before They Called Me Potus (Medley) [Pomac4FafcM]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Zepeto [9LaebRCA3WM]",
+        "audio_path": "Zepeto [9LaebRCA3WM]/audio/standardized.wav",
+        "features_path": "Zepeto [9LaebRCA3WM]/dataset/features/features.json",
+        "lyrics_path": "Zepeto [9LaebRCA3WM]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Zepeto [9LaebRCA3WM]/dataset/metadata.json",
+        "spectrogram_path": "Zepeto [9LaebRCA3WM]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "New Years Without Eve [CfwOillWux4]",
+        "audio_path": "New Years Without Eve [CfwOillWux4]/audio/standardized.wav",
+        "features_path": "New Years Without Eve [CfwOillWux4]/dataset/features/features.json",
+        "lyrics_path": "New Years Without Eve [CfwOillWux4]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "New Years Without Eve [CfwOillWux4]/dataset/metadata.json",
+        "spectrogram_path": "New Years Without Eve [CfwOillWux4]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Love Dreams [YK0HONWHlIk]",
+        "audio_path": "Love Dreams [YK0HONWHlIk]/audio/standardized.wav",
+        "features_path": "Love Dreams [YK0HONWHlIk]/dataset/features/features.json",
+        "lyrics_path": "Love Dreams [YK0HONWHlIk]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Love Dreams [YK0HONWHlIk]/dataset/metadata.json",
+        "spectrogram_path": "Love Dreams [YK0HONWHlIk]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Blue [dXHGW86pyuo]",
+        "audio_path": "Blue [dXHGW86pyuo]/audio/standardized.wav",
+        "features_path": "Blue [dXHGW86pyuo]/dataset/features/features.json",
+        "lyrics_path": "Blue [dXHGW86pyuo]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Blue [dXHGW86pyuo]/dataset/metadata.json",
+        "spectrogram_path": "Blue [dXHGW86pyuo]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "3peat [icokPtJYGI0]",
+        "audio_path": "3peat [icokPtJYGI0]/audio/standardized.wav",
+        "features_path": "3peat [icokPtJYGI0]/dataset/features/features.json",
+        "lyrics_path": "3peat [icokPtJYGI0]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "3peat [icokPtJYGI0]/dataset/metadata.json",
+        "spectrogram_path": "3peat [icokPtJYGI0]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "A Word [m3LoKaAsWr4]",
+        "audio_path": "A Word [m3LoKaAsWr4]/audio/standardized.wav",
+        "features_path": "A Word [m3LoKaAsWr4]/dataset/features/features.json",
+        "lyrics_path": "A Word [m3LoKaAsWr4]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "A Word [m3LoKaAsWr4]/dataset/metadata.json",
+        "spectrogram_path": "A Word [m3LoKaAsWr4]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Michelin Chef [fXxEqOINW8E]",
+        "audio_path": "Michelin Chef [fXxEqOINW8E]/audio/standardized.wav",
+        "features_path": "Michelin Chef [fXxEqOINW8E]/dataset/features/features.json",
+        "lyrics_path": "Michelin Chef [fXxEqOINW8E]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Michelin Chef [fXxEqOINW8E]/dataset/metadata.json",
+        "spectrogram_path": "Michelin Chef [fXxEqOINW8E]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Magnetism [ok72CYJZd0k]",
+        "audio_path": "Magnetism [ok72CYJZd0k]/audio/standardized.wav",
+        "features_path": "Magnetism [ok72CYJZd0k]/dataset/features/features.json",
+        "lyrics_path": "Magnetism [ok72CYJZd0k]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Magnetism [ok72CYJZd0k]/dataset/metadata.json",
+        "spectrogram_path": "Magnetism [ok72CYJZd0k]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Thank God Im [sT0horz7Pk8]",
+        "audio_path": "Thank God Im [sT0horz7Pk8]/audio/standardized.wav",
+        "features_path": "Thank God Im [sT0horz7Pk8]/dataset/features/features.json",
+        "lyrics_path": "Thank God Im [sT0horz7Pk8]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Thank God Im [sT0horz7Pk8]/dataset/metadata.json",
+        "spectrogram_path": "Thank God Im [sT0horz7Pk8]/visuals/spectrogram.png"
+    },
+    {
+        "song_id": "Sunday Blues (Bonus) [l9pkSqWFoUc]",
+        "audio_path": "Sunday Blues (Bonus) [l9pkSqWFoUc]/audio/standardized.wav",
+        "features_path": "Sunday Blues (Bonus) [l9pkSqWFoUc]/dataset/features/features.json",
+        "lyrics_path": "Sunday Blues (Bonus) [l9pkSqWFoUc]/dataset/lyrics/lyrics.txt",
+        "metadata_path": "Sunday Blues (Bonus) [l9pkSqWFoUc]/dataset/metadata.json",
+        "spectrogram_path": "Sunday Blues (Bonus) [l9pkSqWFoUc]/visuals/spectrogram.png"
+    }
+]

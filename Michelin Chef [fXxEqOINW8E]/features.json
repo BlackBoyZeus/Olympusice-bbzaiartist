@@ -1,0 +1,18 @@
+{
+  "duration": 203.49596875,
+  "tempo": 120.96774193548387,
+  "time_signature": "2/4",
+  "key": 6,
+  "key_confidence": "high",
+  "energy": 0.15293875336647034,
+  "loudness": -16.309648513793945,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Michelin Chef [fXxEqOINW8E]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Michelin Chef [fXxEqOINW8E]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Michelin Chef [fXxEqOINW8E]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

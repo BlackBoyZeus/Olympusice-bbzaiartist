@@ -1,0 +1,18 @@
+{
+  "duration": 133.848,
+  "tempo": 107.14285714285714,
+  "time_signature": "2/4",
+  "key": 1,
+  "key_confidence": "low",
+  "energy": 0.3160896599292755,
+  "loudness": -10.00379467010498,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Disney 713 [tK-yvwgXvQw]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Disney 713 [tK-yvwgXvQw]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Disney 713 [tK-yvwgXvQw]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

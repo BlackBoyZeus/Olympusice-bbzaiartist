@@ -1,0 +1,18 @@
+{
+  "duration": 181.7143125,
+  "tempo": 138.88888888888889,
+  "time_signature": "2/4",
+  "key": 7,
+  "key_confidence": "low",
+  "energy": 0.10119105130434036,
+  "loudness": -19.897157669067383,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Thank God Im [sT0horz7Pk8]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Thank God Im [sT0horz7Pk8]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Thank God Im [sT0horz7Pk8]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 259.29290625,
+  "tempo": 150.0,
+  "time_signature": "2/4",
+  "key": 6,
+  "key_confidence": "low",
+  "energy": 0.16946953535079956,
+  "loudness": -15.418167114257812,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Falling [dmvPkL4dr9Q]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Falling [dmvPkL4dr9Q]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Falling [dmvPkL4dr9Q]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

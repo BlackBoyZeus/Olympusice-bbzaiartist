@@ -1,0 +1,18 @@
+{
+  "duration": 165.048,
+  "tempo": 163.04347826086956,
+  "time_signature": "2/4",
+  "key": 8,
+  "key_confidence": "low",
+  "energy": 0.1819927841424942,
+  "loudness": -14.798916816711426,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/3peat [gq1eofElbwQ]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/3peat [gq1eofElbwQ]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/3peat [gq1eofElbwQ]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

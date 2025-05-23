@@ -1,0 +1,18 @@
+{
+  "duration": 269.16571875,
+  "tempo": 178.57142857142858,
+  "time_signature": "2/4",
+  "key": 3,
+  "key_confidence": "high",
+  "energy": 0.2126321941614151,
+  "loudness": -13.447419166564941,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Friended [SVuOI1Xj4pw]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Friended [SVuOI1Xj4pw]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Friended [SVuOI1Xj4pw]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

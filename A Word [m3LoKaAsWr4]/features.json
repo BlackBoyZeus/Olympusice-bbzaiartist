@@ -1,0 +1,18 @@
+{
+  "duration": 204.30365625,
+  "tempo": 93.75,
+  "time_signature": "2/4",
+  "key": 9,
+  "key_confidence": "low",
+  "energy": 0.23914609849452972,
+  "loudness": -12.42673397064209,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/A Word [m3LoKaAsWr4]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/A Word [m3LoKaAsWr4]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/A Word [m3LoKaAsWr4]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}
