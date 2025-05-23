@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "title": "Unknown",
+        "artist": "Unknown",
+        "album": "Unknown",
+        "genre": "Unknown",
+        "year": "Unknown"
+    },
+    "lyrics_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Blue [dXHGW86pyuo]/dataset/lyrics/lyrics.txt",
+    "features_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Blue [dXHGW86pyuo]/dataset/features/features.json",
+    "spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Blue [dXHGW86pyuo]/visuals/spectrogram.png"
+}
