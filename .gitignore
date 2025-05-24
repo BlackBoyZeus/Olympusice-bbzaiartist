@@ -1,7 +1,32 @@
-# Only ignore system files and virtual environments
-/venv/
-/myenv/
-/ai_music_env/
-.DS_Store
+# Python virtual environments
+venv/
+env/
+ai_music_env/
+ai_music_env_new/
+myenv/
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+.DS_Store
+
+# Large files that should be handled by Git LFS
+# (but we'll keep them tracked)
+
+# Logs
+logs/
+
+# Temporary script files
+pull_audio_files.sh
+pull_audio_files_lfs.sh
+audio_files_to_pull.txt
+audio_files_to_pull_lfs.txt
+local_files.txt
+remote_files.txt
