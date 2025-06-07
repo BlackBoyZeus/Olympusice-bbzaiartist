@@ -1,0 +1,9 @@
+{
+  "duration": 90.0266439909297,
+  "sample_rate": 44100,
+  "tempo": 120.18531976744185,
+  "spectrogram_path": "mel_spectrogram.png",
+  "waveform_path": "visuals/waveform.png",
+  "chromagram_path": "visuals/chromagram.png",
+  "processed_at": "2025-06-06T16:30:00Z"
+}

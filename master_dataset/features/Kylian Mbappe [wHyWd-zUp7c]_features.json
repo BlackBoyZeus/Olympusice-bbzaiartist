@@ -1,0 +1,18 @@
+{
+  "duration": 132.0,
+  "tempo": 125.0,
+  "time_signature": "2/4",
+  "key": 3,
+  "key_confidence": "high",
+  "energy": 0.12689580023288727,
+  "loudness": -17.931055068969727,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe [wHyWd-zUp7c]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe [wHyWd-zUp7c]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Kylian Mbappe [wHyWd-zUp7c]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

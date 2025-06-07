@@ -1,0 +1,18 @@
+{
+  "duration": 76.826125,
+  "tempo": 98.6842105263158,
+  "time_signature": "2/4",
+  "key": 9,
+  "key_confidence": "low",
+  "energy": 0.2137523889541626,
+  "loudness": -13.401780128479004,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Blue [dXHGW86pyuo]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Blue [dXHGW86pyuo]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Blue [dXHGW86pyuo]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

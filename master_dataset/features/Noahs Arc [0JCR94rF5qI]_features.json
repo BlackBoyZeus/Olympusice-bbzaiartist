@@ -1,0 +1,18 @@
+{
+  "duration": 229.99221875,
+  "tempo": 107.14285714285714,
+  "time_signature": "2/4",
+  "key": 8,
+  "key_confidence": "low",
+  "energy": 0.12621429562568665,
+  "loudness": -17.977828979492188,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Noahs Arc [0JCR94rF5qI]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Noahs Arc [0JCR94rF5qI]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Noahs Arc [0JCR94rF5qI]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

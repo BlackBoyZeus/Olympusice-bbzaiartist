@@ -1,0 +1,18 @@
+{
+  "duration": 135.00084375,
+  "tempo": 129.31034482758622,
+  "time_signature": "2/4",
+  "key": 6,
+  "key_confidence": "high",
+  "energy": 0.23691293597221375,
+  "loudness": -12.508224487304688,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/05\u2019 Zuck [ZsOtqU3-HXs]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/05\u2019 Zuck [ZsOtqU3-HXs]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/05\u2019 Zuck [ZsOtqU3-HXs]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 209.36275,
+  "tempo": 156.25,
+  "time_signature": "2/4",
+  "key": 3,
+  "key_confidence": "high",
+  "energy": 0.1365521103143692,
+  "loudness": -17.294031143188477,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/StarLight ~ by POTUS\uff1a A Rendition [dQX8wPXuBH4]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

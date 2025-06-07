@@ -1,0 +1,18 @@
+{
+  "duration": 318.158375,
+  "tempo": 163.04347826086956,
+  "time_signature": "2/4",
+  "key": 8,
+  "key_confidence": "low",
+  "energy": 0.16673800349235535,
+  "loudness": -15.559309005737305,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Magnetism [ok72CYJZd0k]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Magnetism [ok72CYJZd0k]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Magnetism [ok72CYJZd0k]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

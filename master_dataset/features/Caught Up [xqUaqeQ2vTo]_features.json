@@ -1,0 +1,18 @@
+{
+  "duration": 123.677625,
+  "tempo": 101.35135135135135,
+  "time_signature": "2/4",
+  "key": 9,
+  "key_confidence": "low",
+  "energy": 0.12049933522939682,
+  "loudness": -18.380306243896484,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Caught Up [xqUaqeQ2vTo]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Caught Up [xqUaqeQ2vTo]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Caught Up [xqUaqeQ2vTo]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

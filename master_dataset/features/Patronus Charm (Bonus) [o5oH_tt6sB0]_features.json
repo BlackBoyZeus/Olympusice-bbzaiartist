@@ -1,0 +1,18 @@
+{
+  "duration": 161.40046875,
+  "tempo": 129.31034482758622,
+  "time_signature": "2/4",
+  "key": 3,
+  "key_confidence": "high",
+  "energy": 0.21507516503334045,
+  "loudness": -13.348194122314453,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Patronus Charm (Bonus) [o5oH_tt6sB0]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Patronus Charm (Bonus) [o5oH_tt6sB0]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Patronus Charm (Bonus) [o5oH_tt6sB0]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

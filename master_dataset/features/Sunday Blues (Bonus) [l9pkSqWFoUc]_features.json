@@ -1,0 +1,18 @@
+{
+  "duration": 199.83675,
+  "tempo": 120.96774193548387,
+  "time_signature": "2/4",
+  "key": 10,
+  "key_confidence": "low",
+  "energy": 0.24585430324077606,
+  "loudness": -12.186443328857422,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Sunday Blues (Bonus) [l9pkSqWFoUc]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Sunday Blues (Bonus) [l9pkSqWFoUc]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Sunday Blues (Bonus) [l9pkSqWFoUc]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

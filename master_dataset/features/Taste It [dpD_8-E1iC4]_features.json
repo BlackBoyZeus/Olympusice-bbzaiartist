@@ -1,0 +1,18 @@
+{
+  "duration": 178.90909375,
+  "tempo": 110.29411764705883,
+  "time_signature": "4/4",
+  "key": 5,
+  "key_confidence": "high",
+  "energy": 0.21798530220985413,
+  "loudness": -13.231456756591797,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Taste It [dpD_8-E1iC4]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Taste It [dpD_8-E1iC4]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Taste It [dpD_8-E1iC4]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "duration": 216.4190625,
+  "tempo": 178.57142857142858,
+  "time_signature": "4/4",
+  "key": 10,
+  "key_confidence": "low",
+  "energy": 0.15281949937343597,
+  "loudness": -16.316425323486328,
+  "mel_spectrogram_path": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Full Circle [6LZokJkBVeI]/mel_spectrogram.npy",
+  "mel_spectrogram_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Full Circle [6LZokJkBVeI]/visualizations/mel_spectrogram.png",
+  "waveform_image": "/Users/blblackboyzeusackboyzeus/BBZ(AiArtist)/music_generator/Full Circle [6LZokJkBVeI]/visualizations/waveform.png",
+  "metadata": {
+    "title": "Unknown",
+    "artist": "Unknown",
+    "album": "Unknown",
+    "genre": "Unknown"
+  }
+}
